@@ -1,0 +1,386 @@
+
+                                <div class="lap-nav">
+                                    <ul class="nav navbar-nav navbar-right" data-hover="dropdown"
+                                        data-animations="flipInY">
+
+                                        <li><a href="index.php">Home</a></li>
+                                        <!-- <li><a href="about.html">About</a></li> -->
+                                        <!-- original -->
+                                        <!-- <li class="dropdown active">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                                                aria-haspopup="true" aria-expanded="false">About Mavmm<i
+                                                    class="fa fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu">
+
+                                               
+                                                <li><a href="admission.php">Admission Details</a></li>
+                                                <li><a href="course.php">Course Details</a></li>
+                                                <li><a href="institutiondetails.php">Institution Details</a></li>
+                                                <li><a href="libraryothers.php">Library & Other Facilities</a></li>
+                                                <li><a href="management.php">Management</a></li>
+                                                <li><a href="staffprofile.php">Staff Profile</a></li>
+                                                <li><a href="teacher.php">Teacher Training Policy</a></li>
+                                                <li><a href="syllabus.php">Syllabus</a></li>
+                                                <li><a href="subsequent.php">LOA and Subsequent EOA</a></li>
+                                                <li class="nav-item dropdown">
+                                                    <a class="nav-link dropdown-toggle" href="#" id="navbardownMenuLink"
+                                                        data-toggle="dropdown" aria-haspopup="true"
+                                                        aria-expanded="false">Facilities&nbsp;&nbsp;<i
+                                                            class="fa fa-angle-down"></i> </a>
+                                                    <ul class="dropdown-menu rightsubmenu sub-menu"
+                                                        aria-labelledby="navbardownMenuLink">
+                                                        <li><a class="dropdown-item"
+                                                                href="infrastructure.php">Infrastructure&Others </a>
+                                                        </li>
+                                                        <li><a class="dropdown-item" href="library.php">Library</a></li>
+                                                        <li><a class="dropdown-item" href="hostel.php">Hostel</a></li>
+                                                        <li><a class="dropdown-item"
+                                                                href="medicalfacilities.php">Medical Facilities</a></li>
+                                                        <li><a class="dropdown-item" href="transport.php">Transport</a>
+                                                        </li>
+                                                        <li><a class="dropdown-item" href="mess.php">Mess</a></li>
+                                                        <li><a class="dropdown-item" href="canteen.php">Canteen</a></li>
+
+                                                        <li><a class="dropdown-item" href="pressnews.php">PRESS
+                                                                NEWS&nbsp;&nbsp;--><!-- <i class="fa fa-angle-down"></i> -->
+                                        <!-- </a>
+                                                        </li>  -->
+                                        <!--  <ul class="dropdown-menu" style="left: 100% !important;margin-top: -42px !important;">
+                            <li><a class="dropdown-item" href="gallery.php">GALLERY</a></li>
+                           
+                        
+                                </ul> -->
+
+                                        <!-- </ul>
+                                                </li>
+
+                                            </ul>
+                                        </li> -->
+                                        <!-- original end -->
+
+
+
+                                        <li class="dropdown active">
+                                            <a href="#" class="dropdown-toggle" data-click="dropdown" role="button"
+                                                aria-haspopup="true" aria-expanded="false">About Mavmm<i
+                                                    class="fa fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu">
+
+
+                                                <li><a href="admission.php">Admission Details</a></li>
+                                                <li><a href="course.php">Course Details</a></li>
+                                                <li><a href="institutiondetails.php">Institution Details</a></li>
+                                                <li><a href="libraryothers.php">Library & Other Facilities</a></li>
+                                                <li><a href="management.php">Management</a></li>
+                                                <li><a href="staffprofile.php">Staff Profile</a></li>
+                                                <li><a href="teacher.php">Teacher Training Policy</a></li>
+                                                <li><a href="syllabus.php">Syllabus</a></li>
+                                                <li><a href="subsequent.php">LOA and Subsequent EOA</a></li>
+                                                <li class="nav-item dropdown try-parent">
+                                                    <a class="nav-link dropdown-toggle dropbtn" href="#"
+                                                        id="navbardownMenuLink" data-toggle="dropdown"
+                                                        aria-haspopup="true"
+                                                        aria-expanded="true">Facilities&nbsp;&nbsp;<i
+                                                            class="fa fa-angle-down"></i> </a>
+                                                    <ul class="dropdown-menu rightsubmenu try-child sub-menu dropdown-content"
+                                                        aria-labelledby="navbardownMenuLink">
+                                                        <li><a class="dropdown-item"
+                                                                href="infrastructure.php">Infrastructure&Others </a>
+                                                        </li>
+                                                        <li><a class="dropdown-item" href="library.php">Library</a></li>
+                                                        <li><a class="dropdown-item" href="hostel.php">Hostel</a></li>
+                                                        <li><a class="dropdown-item"
+                                                                href="medicalfacilities.php">Medical Facilities</a></li>
+                                                        <li><a class="dropdown-item" href="transport.php">Transport</a>
+                                                        </li>
+                                                        <li><a class="dropdown-item" href="mess.php">Mess</a></li>
+                                                        <li><a class="dropdown-item" href="canteen.php">Canteen</a></li>
+
+                                                        <li><a class="dropdown-item" href="pressnews.php">PRESS
+                                                                NEWS&nbsp;&nbsp;<!-- <i class="fa fa-angle-down"></i> --></a>
+                                                        </li>
+                                                        <!--  <ul class="dropdown-menu" style="left: 100% !important;margin-top: -42px !important;">
+                            <li><a class="dropdown-item" href="gallery.php">GALLERY</a></li>
+                           
+                        
+                                </ul> -->
+
+                                                    </ul>
+                                                </li>
+
+                                            </ul>
+                                        </li>
+
+                                        <li class="dropdown ">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                                                aria-haspopup="true" aria-expanded="false">Department <i
+                                                    class="fa fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu " style="width:320px">
+                                                <li><a href="civileng.php">CIVIL ENGG (DCE)</a></li>
+                                                <li><a href="mechanicaleng.php">MECHANICAL ENGG (DME)</a> </li>
+                                                <li><a href="electroniccom.php">ELECTRONICS AND COMMUNICATION
+                                                        ENGG(DECE)&nbsp;&nbsp;&nbsp;</a> </li>
+                                                <li><a href="electricalandelectronic.php">ELECTRICAL AND ELECTRONICS
+                                                        ENGG(DEEE)&nbsp;&nbsp;&nbsp;</a></li>
+                                                <li><a href="computereng.php">COMPUTER ENGG(DCE)</a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                                                aria-haspopup="true" aria-expanded="false">Committee<i
+                                                    class="fa fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu" style="width:350px">
+                                                <li><a href="ragging.php">Anti-Ragging Committee</a></li>
+                                                <li><a href="raggingsquad.php">Anti Ragging Squad</a></li>
+                                                <li><a href="grievance.php">Grievance Redressal Committee</a></li>
+                                                <li><a href="harassment.php">Sexual Harassment Redressal Committee</a>
+                                                </li>
+                                                <li><a href="iqac.php">IQAC</a></li>
+                                                <li><a href="establishment.php">Establishment of Internal Committee
+                                                        (ICC)</a></li>
+                                                <li><a href="committesc_ct.php">Establishment of Committee SC/ST</a>
+                                                </li>
+                                                <!-- <li><a href="grievance.php">Grievance Redressal Committee</a></li> -->
+                                                <li class="dropdown ">
+                                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                                                        role="button" aria-haspopup="true"
+                                                        aria-expanded="false">Alumni&nbsp;&nbsp;<i
+                                                            class="fa fa-angle-down"></i></a>
+                                                    <ul class="dropdown-menu rightsubmenu sub-menu">
+                                                        <li><a href="alumniregistration.php">Alumni Registration</a>
+                                                        </li>
+                                                        <li><a href="alumnimeet.php">Alumni Meet</a></li>
+                                                        <li><a href="aluminigallery.php">Gallery</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+                                        <li class="dropdown">
+                                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                                                aria-haspopup="true" aria-expanded="false">Student <i
+                                                    class="fa fa-angle-down"></i></a>
+                                            <ul class="dropdown-menu
+                                             leftsubmenu lg-rightsubmenu">
+                                                <li><a href="studentperform.php">Student Performance</a></li>
+                                                <li><a href="topper.php">Topper list</a></li>
+                                                <li><a href="department.php">Department ranking</a></li>
+                                                <li><a href="industrial.php">Industrial Visit</a></li>
+                                                <li><a href="inplant.php">Inplant Training</a></li>
+
+                                                <li><a href="internship.php">INTERNSHIP DETAILS</a></li>
+                                                <li><a href="departmentwise.php">Department Wise Mous</a></li>
+                                                <li><a href="seminar.php">Seminars</a></li>
+                                                <li class="dropdown ">
+                                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                                                        role="button" aria-haspopup="true"
+                                                        aria-expanded="false">Examination&nbsp;&nbsp;<i
+                                                            class="fa fa-angle-down"></i></a>
+                                                    <ul class="dropdown-menu rightsubmenu ">
+                                                        <li><a href="awards.php">Awards Committee</a></li>
+                                                        <li><a href="circulars.php">Circulars</a></li>
+                                                        <li><a href="regulations.php">Regulations</a></li>
+                                                        <li><a href="results.php">Results</a></li>
+                                                        <li><a href="Curriculum.php">Curriculum and Syllabus</a></li>
+                                                        <li><a href="tentative.php">Tentative Schedule</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li class="dropdown">
+                                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                                                        role="button" aria-haspopup="true"
+                                                        aria-expanded="false">Placement Cell <i
+                                                            class="fa fa-angle-down"></i></a>
+                                                    <ul class="dropdown-menu sub-menu
+                                                    rightsubmenu">
+                                                        <li><a href="placementcell.php">Placement Cell</a></li>
+                                                        <li><a href="placementdetails.php">Placement Details</a></li>
+                                                        <li><a href="institutiongallery.php">Institution Gallery</a>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li class="dropdown dropdown-submenu">
+                                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown"
+                                                        role="button" aria-haspopup="true"
+                                                        aria-expanded="false">Activities <i
+                                                            class="fa fa-angle-down"></i></a>
+
+                                                    <ul class="dropdown-menu 
+                                                    rightsubmenu sub-menu">
+                                                        <li><a class="dropdown-item" href="nss.php">Nss</a></li>
+                                                        <li><a class="dropdown-item" href="redribbion.php">Red
+                                                                Ribbion</a></li>
+                                                        <li><a class="dropdown-item"
+                                                                href="socialresponsibility.php">Social
+                                                                responsibility</a></li>
+
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="mandatory.php">Mandatory</a></li>
+                                        <li><a href="contact.php">Contact</a>
+                                        </li>
+                                    </ul>
+                                </div>
+
+
+                                <div class="mobile-nav">
+                                    <div class="navy
+                                 collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                                        <div class="head1"><a href="index.php">Home</a></div>
+                                        <div>
+                                            <div class="drop-down-menu">
+                                                <div class="head1"><a href="#">About Mavmm<i
+                                                            class="fa fa-angle-down"></i></a></div>
+                                                <div class="drop-down-menu-content cards">
+                                                    <div><a href="admission.php">Admission Details</a></div>
+                                                    <div><a href="course.php">Course Details</a></div>
+                                                    <div><a href="institutiondetails.php">Institution Details</a></div>
+                                                    <div><a href="libraryothers.php">Library & Other Facilities</a>
+                                                    </div>
+                                                    <div><a href="management.php">Management</a></div>
+                                                    <div><a href="staffprofile.php">Staff Profile</a></div>
+                                                    <div><a href="teacher.php">Teachers Training policy</div>
+                                                    <div><a href="syllabus.php">Syllabus</a></div>
+                                                    <div><a href="subsequent.php">Loa and subsequent eoa</a></div>
+                                                    <div class="sub-drop-down-menu">
+                                                        <div class="drop-title head2"><a href="#">Facilities<i
+                                                                    class="fa fa-angle-down"></i></a></div>
+                                                        <div class="sub-drop-down-menu-content cards">
+                                                            <div><a href="infrastructure.php">Infrastructure &
+                                                                    Others</a>
+                                                            </div>
+                                                            <div><a href="library.php">Library</a></div>
+                                                            <div><a href="hostel.php">Hostel</a></div>
+                                                            <div><a href="medicalfacilities.php">Medical Facilities</a>
+                                                            </div>
+                                                            <div><a href="transport.php">Transport</a></div>
+                                                            <div><a href="mess.php">Mess</a></div>
+                                                            <div><a href="canteen.php">Canteen</a></div>
+                                                            <div><a href="pressnews.php">Pressnews</a></div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <div class="drop-down-menu">
+                                                <div class="drop-title head1"><a href="#">Department<i
+                                                            class="fa fa-angle-down"></i></a></div>
+                                                <div class="drop-down-menu-content">
+                                                    <div><a href="civileng.php">Civil Engg(DCE)</a></div>
+                                                    <div><a href="mechanicaleng.php">Mechanical Engg(DME)</a></div>
+                                                    <div><a href="electroniccom.php">Electronics & Communication Engg
+                                                            (DECE)</a></div>
+                                                    <div><a href="electricalandelectronic.php">Electrical & Electronics
+                                                            Engg(DEEE)</a></div>
+                                                    <div><a href="computereng.php">Computer Engg(DEEE)</a></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div>
+                                            <div class="drop-down-menu">
+                                                <div class="drop-title head1"><a href="#">Committee<i
+                                                            class="fa fa-angle-down"></i></a></div>
+                                                <div class="drop-down-menu-content cards">
+                                                    <div><a href="ragging.php">Anti-Ragging Committee</a></div>
+                                                    <div><a href="raggingsquad.php">Anti Ragging Squad</a></div>
+                                                    <div><a href="grievance.php">Grievance Redressal Committee</a></div>
+                                                    <div><a href="libraryothers.php">Sexual Harrasement Redressal
+                                                            Committee</a></div>
+                                                    <div><a href="iqac.php">IQAC</a></div>
+                                                    <div><a href="establishment.php">Establishment of Internal
+                                                            Committee(ICC)</a></div>
+                                                    <div><a href="committesc_ct.php">Establishment of Committee(sc/st)
+                                                    </div>
+                                                    <div class="sub-drop-down-menu">
+                                                        <div class="drop-title head2"><a href="#">Alumni<i
+                                                                    class="fa fa-angle-down"></i></a></div>
+                                                        <div class="sub-drop-down-menu-content">
+                                                            <div><a href="alumniregistration.php">Alumni
+                                                                    Registration</a>
+                                                            </div>
+                                                            <div><a href="alumnimeet.php">Alumni Meet</a></div>
+                                                            <div><a href="aluminigallery.php">Gallery</a></div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+
+                                        <div>
+                                            <div class="drop-down-menu">
+                                                <div class="drop-title head1"><a href="#">Student<i
+                                                            class="fa fa-angle-down"></i></a></div>
+                                                <div class="drop-down-menu-content cards">
+                                                    <div><a href="ragging.php">Student Performance</a></div>
+                                                    <div><a href="raggingsquad.php">Topper List</a></div>
+                                                    <div><a href="grievance.php">Department Ragging</a></div>
+                                                    <div><a href="libraryothers.php">Industrial Visit</a></div>
+                                                    <div><a href="iqac.php">Inplant Training</a></div>
+                                                    <div><a href="establishment.php">Internship Details</a></div>
+                                                    <div><a href="committesc_ct.php">Department Wise Mouse</div>
+                                                    <div><a href="committesc_ct.php">Seminars</div>
+                                                    <div>
+                                                        <div class="sub-drop-down-menu">
+                                                            <div class="drop-title head2"><a href="#">Examination<i
+                                                                        class="fa fa-angle-down"></i></a></div>
+                                                            <div class="sub-drop-down-menu-content">
+                                                                <div><a href="alumniregistration.php">Awards
+                                                                        Committee</a>
+                                                                </div>
+                                                                <div><a href="alumnimeet.php">Circulars</a></div>
+                                                                <div><a href="aluminigallery.php">Regulations</a></div>
+                                                                <div><a href="aluminigallery.php">Results</a></div>
+                                                                <div><a href="aluminigallery.php">Curriculam &
+                                                                        Syllabus</a>
+                                                                </div>
+                                                                <div><a href="aluminigallery.php">Tentative Schedule</a>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <div class="sub-drop-down-menu">
+                                                            <div class="drop-title head2"><a href="#">Placement Cell<i
+                                                                        class="fa fa-angle-down"></i></a></div>
+                                                            <div class="sub-drop-down-menu-content">
+                                                                <div><a href="alumniregistration.php">Placement Cell</a>
+                                                                </div>
+                                                                <div><a href="alumnimeet.php">Placement Details</a>
+                                                                </div>
+                                                                <div><a href="aluminigallery.php">Institution
+                                                                        Gallery</a></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div>
+                                                        <div class="sub-drop-down-menu">
+                                                            <div class="drop-title head2"><a href="#">Acti<i
+                                                                        class="fa fa-angle-down"></i></a></div>
+                                                            <div class="sub-drop-down-menu-content">
+                                                                <div><a href="alumniregistration.php">NSS</a>
+                                                                </div>
+                                                                <div><a href="alumnimeet.php">Red Ribbon</a></div>
+                                                                <div><a href="aluminigallery.php">Social
+                                                                        Responsibilities</a></div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                        <div class="drop-title head1">
+                                            <a href="mandatory.php">Mandatory</a>
+                                        </div>
+                                        <div class="drop-title head1">
+                                            <a href="contact.php">Contact</a>
+                                        </div>
+                                    </div>
+                                </div>
